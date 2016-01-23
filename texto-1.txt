@@ -1,10 +1,17 @@
+-----------mierda-----
 linea uno
+-----------mierda-----
 linea dos
+-----------mierda-----
 linea tres
-esto es un ensallo
+esto es un ensalto
 texto-ensayo 1
+-----------mierda-----
 texto-ensayo 2
+-----------mierda-----
 texto-ensayo 3
+-----------mierda-----
 texto-ensayo 4
+-----------mierda-----
 texto-ensayo 5
 -----------mierda-----
